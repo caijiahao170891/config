@@ -4,4 +4,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:9001/eureka/
 caijiahao:
-  test1: 11112222111
+  test1: 123
