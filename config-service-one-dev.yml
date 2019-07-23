@@ -2,7 +2,7 @@
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:9001/eureka/haha
+      defaultZone: http://localhost:9001/eureka/haha12
 
 server:
   port: 9002
